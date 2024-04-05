@@ -8,33 +8,33 @@ export const products = [
     {
       title: 'Moonbeam',
       link: 'https://gomoonbeam.com',
-      thumbnail: '/1.png',
+      thumbnail: '/Dame_8_Extply_Shoes_Grey_IG8086_06_standard.avif',
     },
     {
       title: 'Cursor',
       link: 'https://cursor.so',
-      thumbnail: '/2.png',
+      thumbnail: '/Rivalry_Low_86_Basketball_Shoes_Beige_IF5466_06_standard.avif',
     },
     {
       title: 'Rogue',
       link: 'https://userogue.com',
-      thumbnail: '/3.png',
+      thumbnail: '/7.avif',
     },
   
     {
       title: 'Editorially',
       link: 'https://editorially.org',
-      thumbnail: '/4.png',
+      thumbnail: '/Rivalry_Low_86_Basketball_Shoes_Beige_IF5466_06_standard.avif',
     },
     {
       title: 'Editrix AI',
       link: 'https://editrix.ai',
-      thumbnail: '/5.png',
+      thumbnail: '/6.png',
     },
     {
       title: 'Pixel Perfect',
       link: 'https://app.pixelperfect.quest',
-      thumbnail: '/6.png',
+      thumbnail: '/Crazy_IIInfinity_Shoes_Silver_IE7687_06_standard.avif',
     },
   
     {
@@ -50,7 +50,7 @@ export const products = [
     {
       title: 'Tailwind Master Kit',
       link: 'https://tailwindmasterkit.com',
-      thumbnail: '/jordan-stadium-90-older-shoes-2J5HrK.jpg',
+      thumbnail: '/7.avif',
     },
     {
       title: 'SmartBridge',
@@ -60,7 +60,7 @@ export const products = [
     {
       title: 'Renderwork Studio',
       link: 'https://renderwork.studio',
-      thumbnail: '/jumpman-mvp-shoes-JV1HCs.png',
+      thumbnail: '/Crazy_IIInfinity_Shoes_Silver_IE7687_06_standard.avif',
     },
   
     
