@@ -1,4 +1,4 @@
-export const clients = [...new Array(5)].map((client, index) => ({
+export const clients = [...new Array(9)].map((client, index) => ({
     href: `/${index + 1}.png`,
   }))
 
